@@ -1,7 +1,7 @@
 # CarousellNews - ASSIGNMENT
-## MVVM Architure
+## MVVM Architecture
 ## Coroutines
-## Retrifit
+## Retrofit
 ## Livedata
 ## Dagger2
 ## Unit-Testing (JUnit-4)
